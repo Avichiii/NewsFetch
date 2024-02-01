@@ -26,7 +26,7 @@ ctx.check_hostname = False
 ctx.verify_mode = ssl.CERT_NONE
 
 
-API_KEY = '2e699f13ae5975daa94a97f277689be3'
+API_KEY = '' # your key
 END_POINT = 'https://gnews.io/api/v4/top-headlines?'
 
 
